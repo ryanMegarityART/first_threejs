@@ -1,5 +1,5 @@
-import * as THREE from '../../node_modules/three/build/three.module.js';
-import { VRButton } from "../../node_modules/three/examples/jsm/webxr/VRButton.js";
+import * as THREE from '../../three_build/build/three.module.js';
+import { VRButton } from "../../three_build/examples/jsm/webxr/VRButton.js";
 
 export default function main() {
   //Create renderer + Canvas
